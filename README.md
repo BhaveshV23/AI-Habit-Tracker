@@ -13,6 +13,14 @@ The system combines behavioral analytics, statistical pattern detection, and gen
 
 ---
 
+## Live Demo
+
+Try the application here:
+
+[https://ai-habit-tracker.streamlit.app/](https://ai-habit-tracker.streamlit.app/)
+
+---
+
 # 🚀 Features
 
 ## 📊 Habit Tracking Dashboard
@@ -289,6 +297,10 @@ Planned enhancements:
 **Bhavesh Vadnere**  
 
 Information Technology Engineering Student  
+
+GitHub: [https://github.com/BhaveshV23](https://github.com/BhaveshV23)
+
+Linkedin: [https://linkedin.com/in/bhavesh-vadnere](https://linkedin.com/in/bhavesh-vadnere)
 
 Interested in:
 
